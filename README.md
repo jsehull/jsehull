@@ -1,6 +1,6 @@
 # Hi, I'm Jesse 😄
 
-<img src='mountain-banner.jpeg' alt='mountain range'>
+<img src='https://raw.githubusercontent.com/jsehull/jsehull/master/mountain-banner.jpeg' alt='mountain range'>
 
 I'm a product guy. That means I like to fine-tune and craft my work with excellence 💎. Every detail matters to me. 
 
