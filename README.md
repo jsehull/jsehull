@@ -2,7 +2,7 @@
 
 <img src='https://raw.githubusercontent.com/jsehull/jsehull/master/mountain-banner.jpeg' alt='mountain range'>
 
-I'm a product guy. That means I like to fine-tune my craft and ship my work with excellence 💎. Every detail matters to me. 
+I'm a product guy. That means I like to fine-tune my work and ship with excellence 💎. Every detail matters to me. 
 
 I'm a forever learner 📚 who loves to absorb information from anyone and everywhere I can. Growing as an individual is what keeps me focused and entertained as I go through life.
 
