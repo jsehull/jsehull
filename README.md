@@ -2,6 +2,6 @@
 
 <img src='https://raw.githubusercontent.com/jsehull/jsehull/master/mountain-banner.jpeg' alt='mountain range'>
 
-Frontend Developer at IBM
+Frontend Developer
 
 Always learning
